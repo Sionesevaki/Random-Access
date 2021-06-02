@@ -1,0 +1,10 @@
+add    8 Jones     61  62  63
+print  8
+add    7 Heinlein  91  92  93
+print  7
+update 8 2 88
+print  8
+add    1 Jimmy     69  49  68
+print  1
+list
+quit
